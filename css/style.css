@@ -34,7 +34,7 @@ h1 {
 	text-transform: uppercase;
   
 	 color: #fd1313;
-	  background: -webkit-linear-gradient(deg, #f94c4c 0%, #72a5fb 13%, #c87ef7 30%);
+	  background: -webkit-linear-gradient(0deg, #f94c4c 0%, #72a5fb 13%, #c87ef7 30%);
 	  -webkit-background-clip: text;
 	  -webkit-text-fill-color: transparent;
 }
