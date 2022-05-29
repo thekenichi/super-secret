@@ -1,0 +1,17 @@
+:not(:defined) > * {
+  display: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #dedede;
+}
+
+model-viewer {
+  width: 100%;
+  height: 90%;
+  background-color: #dedede;
+}
