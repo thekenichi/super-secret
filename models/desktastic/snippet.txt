@@ -1,0 +1,1 @@
+<model-viewer bounds="tight" enable-pan src="desktastic.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.png" shadow-intensity="1" camera-orbit="-0.7254deg 94.72deg auto"> </model-viewer>
